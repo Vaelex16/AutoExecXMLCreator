@@ -13,7 +13,7 @@ Open Command File. These bots are located in the installation directory that you
 installing the application.
 
 Once you open or create a bot clicking the 'Generate XML' button prompts you for a save location
-and file name. You cna save it in any directory you wish, however do note that for Auto Exec to
+and file name. You can save it in any directory you wish, however do note that for Auto Exec to
 be able to find it, you will need to place it inside the Windower4/plugins/autoexec folder.
 
 Once the file is saved in the correct location, boot up your character in ffxi.
