@@ -1,0 +1,344 @@
+Stone
+s1
+False
+MagicAttack
+Stone II
+s2
+False
+MagicAttack
+Stone III
+s3
+False
+MagicAttack
+Stone IV
+s4
+False
+MagicAttack
+Stone V
+s5
+False
+MagicAttack
+Stonega
+sga1
+False
+MagicAttack
+Stonega II
+sga2
+False
+MagicAttack
+Stonega III
+sga3
+False
+MagicAttack
+Stoneja
+sja
+False
+MagicAttack
+Water
+w1
+False
+MagicAttack
+Water II
+w2
+False
+MagicAttack
+Water II
+w3
+False
+MagicAttack
+Water IV
+w4
+False
+MagicAttack
+Water V
+w5
+False
+MagicAttack
+Waterga
+wga
+False
+MagicAttack
+Waterga II
+wga2
+False
+MagicAttack
+Waterga III
+wga3
+False
+MagicAttack
+Waterja
+wja
+False
+MagicAttack
+Aero
+a1
+False
+MagicAttack
+Aero II
+a2
+False
+MagicAttack
+Aero II
+a3
+False
+MagicAttack
+Aero IV
+a4
+False
+MagicAttack
+Aero V
+a5
+False
+MagicAttack
+Aeroga
+aga1
+False
+MagicAttack
+Aeroga II
+aga2
+False
+MagicAttack
+Aeroga III
+aga3
+False
+MagicAttack
+Aeroja
+aja
+False
+MagicAttack
+Fire
+f1
+False
+MagicAttack
+Fire II
+f2
+False
+MagicAttack
+Fire II
+f3
+False
+MagicAttack
+Fire IV
+f4
+False
+MagicAttack
+Fire V
+f5
+False
+MagicAttack
+Firaga
+fga1
+False
+MagicAttack
+Firaga II
+fga2
+False
+MagicAttack
+Firaga III
+fga3
+False
+MagicAttack
+Firaja
+fja
+False
+MagicAttack
+Blizzard
+b1
+False
+MagicAttack
+Blizzard II
+b2
+False
+MagicAttack
+Blizzard II
+b3
+False
+MagicAttack
+Blizzard IV
+b4
+False
+MagicAttack
+Blizzard V
+b5
+False
+MagicAttack
+Blizzaga
+bga1
+False
+MagicAttack
+Blizzaga II
+bga2
+False
+MagicAttack
+Blizzaga III
+bga3
+False
+MagicAttack
+Blizzaga
+bja
+False
+MagicAttack
+Thunder
+t1
+False
+MagicAttack
+Thunder II
+t2
+False
+MagicAttack
+Thunder II
+t3
+False
+MagicAttack
+Thunder IV
+t4
+False
+MagicAttack
+Thunder V
+t5
+False
+MagicAttack
+Thundaga
+tga1
+False
+MagicAttack
+Thundaga II
+tga2
+False
+MagicAttack
+Thundaga III
+tga3
+False
+MagicAttack
+Thundaja
+tja
+False
+MagicAttack
+Sleep
+sleep
+False
+MagicAttack
+Sleep II
+sleep2
+False
+MagicAttack
+Sleepga
+sleepga
+False
+MagicAttack
+Sleepga II
+sleepga2
+False
+MagicAttack
+Cure
+c1
+False
+Buff
+Cure II
+c2
+False
+Buff
+Cure III
+c3
+False
+Buff
+Cure IV
+c4
+False
+Buff
+Haste
+haste
+False
+Buff
+Haste
+ahaste
+True
+Buff
+Divine Seal
+ds
+False
+JobAbility
+Manawell
+mwell
+True
+JobAbility
+Mana Wall
+mwall
+True
+JobAbility
+Manafont
+mfont
+True
+JobAbility
+Elemental Seal
+es
+True
+JobAbility
+Stoneskin
+ss
+True
+Buff
+Aquaveil
+av
+True
+Buff
+Phalanx
+phalanx
+True
+Buff
+Refresh
+afresh
+True
+Buff
+Refresh
+fresh
+False
+Buff
+Warp II
+d2
+False
+Buff
+Warp
+d1
+True
+Buff
+Teleport-Dem
+dem
+True
+Buff
+Teleport-Holla
+holla
+True
+Buff
+Teleport-Mea
+mea
+True
+Buff
+Teleport-Altep
+altep
+True
+Buff
+Teleport-Yhoat
+yhoat
+True
+Buff
+Teleport-Vahzl
+vahzl
+True
+Buff
+Retrace
+trace
+False
+Buff
+Retrace
+atrace
+True
+Buff
+Convert
+vert
+True
+JobAbility
+Cure IV
+acure
+True
+Buff

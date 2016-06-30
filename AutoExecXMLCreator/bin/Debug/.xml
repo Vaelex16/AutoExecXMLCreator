@@ -1,0 +1,92 @@
+<register silent="true" event="chat_party_Shadowrokker_c1">input /ma "Cure" Shadowrokker</register>
+<register silent="true" event="chat_party_Shadowrokker_c2">input /ma "Cure II" Shadowrokker</register>
+<register silent="true" event="chat_party_Shadowrokker_c3">input /ma "Cure III" Shadowrokker</register>
+<register silent="true" event="chat_party_Shadowrokker_c4">input /ma "Cure IV" Shadowrokker</register>
+<register silent="true" event="chat_party_Shadowrokker_c5">input /ma "Cure V" Shadowrokker</register>
+<register silent="true" event="chat_party_Shadowrokker_c6">input /ma "Cure VI" Shadowrokker</register>
+<register silent="true" event="chat_party_Shadowrokker_haste">input /ma "Haste" Shadowrokker</register>
+<register silent="true" event="chat_party_Shadowrokker_raise">input /ma "Raise" Shadowrokker</register>
+<register silent="true" event="chat_party_Shadowrokker_raise2">input /ma "Raise II" Shadowrokker</register>
+<register silent="true" event="chat_party_Shadowrokker_raise3">input /ma "Raise III" Shadowrokker</register>
+<register silent="true" event="chat_party_Shadowrokker_erase">input /ma "Erase" Shadowrokker</register>
+<register silent="true" event="chat_party_Shadowrokker_regen4">input /ma "Regen IV" Shadowrokker</register>
+<register silent="true" event="chat_party_Shadowrokker_regen5">input /ma "Regen V" Shadowrokker</register>
+<register silent="true" event="chat_party_Shadowrokker_cga1">input /ma "Curaga" Shadowrokker</register>
+<register silent="true" event="chat_party_Shadowrokker_cga2">input /ma "Curaga II" Shadowrokker</register>
+<register silent="true" event="chat_party_Shadowrokker_cga3">input /ma "Curaga III" Shadowrokker</register>
+<register silent="true" event="chat_party_Shadowrokker_cga4">input /ma "Curaga IV" Shadowrokker</register>
+<register silent="true" event="chat_party_Shadowrokker_cga5">input /ma "Curaga V" Shadowrokker</register>
+<register silent="true" event="chat_party_Shadowrokker_bdex">input /ma "Boost-DEX" Shadowrokker</register>
+<register silent="true" event="chat_party_Shadowrokker_bagi">input /ma "Boost-AGI" Shadowrokker</register>
+<register silent="true" event="chat_party_Shadowrokker_bstr">input /ma "Boost-STR" Shadowrokker</register>
+<register silent="true" event="chat_party_Shadowrokker_bint">input /ma "Boost-INT" Shadowrokker</register>
+<register silent="true" event="chat_party_Shadowrokker_bmnd">input /ma "Boost-MND" Shadowrokker</register>
+<register silent="true" event="chat_party_Neyochimaru_c1">input /ma "Cure" Neyochimaru</register>
+<register silent="true" event="chat_party_Neyochimaru_c2">input /ma "Cure II" Neyochimaru</register>
+<register silent="true" event="chat_party_Neyochimaru_c3">input /ma "Cure III" Neyochimaru</register>
+<register silent="true" event="chat_party_Neyochimaru_c4">input /ma "Cure IV" Neyochimaru</register>
+<register silent="true" event="chat_party_Neyochimaru_c5">input /ma "Cure V" Neyochimaru</register>
+<register silent="true" event="chat_party_Neyochimaru_c6">input /ma "Cure VI" Neyochimaru</register>
+<register silent="true" event="chat_party_Neyochimaru_haste">input /ma "Haste" Neyochimaru</register>
+<register silent="true" event="chat_party_Neyochimaru_raise">input /ma "Raise" Neyochimaru</register>
+<register silent="true" event="chat_party_Neyochimaru_raise2">input /ma "Raise II" Neyochimaru</register>
+<register silent="true" event="chat_party_Neyochimaru_raise3">input /ma "Raise III" Neyochimaru</register>
+<register silent="true" event="chat_party_Neyochimaru_erase">input /ma "Erase" Neyochimaru</register>
+<register silent="true" event="chat_party_Neyochimaru_regen4">input /ma "Regen IV" Neyochimaru</register>
+<register silent="true" event="chat_party_Neyochimaru_regen5">input /ma "Regen V" Neyochimaru</register>
+<register silent="true" event="chat_party_Neyochimaru_cga1">input /ma "Curaga" Neyochimaru</register>
+<register silent="true" event="chat_party_Neyochimaru_cga2">input /ma "Curaga II" Neyochimaru</register>
+<register silent="true" event="chat_party_Neyochimaru_cga3">input /ma "Curaga III" Neyochimaru</register>
+<register silent="true" event="chat_party_Neyochimaru_cga4">input /ma "Curaga IV" Neyochimaru</register>
+<register silent="true" event="chat_party_Neyochimaru_cga5">input /ma "Curaga V" Neyochimaru</register>
+<register silent="true" event="chat_party_Neyochimaru_bdex">input /ma "Boost-DEX" Neyochimaru</register>
+<register silent="true" event="chat_party_Neyochimaru_bagi">input /ma "Boost-AGI" Neyochimaru</register>
+<register silent="true" event="chat_party_Neyochimaru_bstr">input /ma "Boost-STR" Neyochimaru</register>
+<register silent="true" event="chat_party_Neyochimaru_bint">input /ma "Boost-INT" Neyochimaru</register>
+<register silent="true" event="chat_party_Neyochimaru_bmnd">input /ma "Boost-MND" Neyochimaru</register>
+<register silent="true" event="chat_party_Chitori_c1">input /ma "Cure" Chitori</register>
+<register silent="true" event="chat_party_Chitori_c2">input /ma "Cure II" Chitori</register>
+<register silent="true" event="chat_party_Chitori_c3">input /ma "Cure III" Chitori</register>
+<register silent="true" event="chat_party_Chitori_c4">input /ma "Cure IV" Chitori</register>
+<register silent="true" event="chat_party_Chitori_c5">input /ma "Cure V" Chitori</register>
+<register silent="true" event="chat_party_Chitori_c6">input /ma "Cure VI" Chitori</register>
+<register silent="true" event="chat_party_Chitori_haste">input /ma "Haste" Chitori</register>
+<register silent="true" event="chat_party_Chitori_raise">input /ma "Raise" Chitori</register>
+<register silent="true" event="chat_party_Chitori_raise2">input /ma "Raise II" Chitori</register>
+<register silent="true" event="chat_party_Chitori_raise3">input /ma "Raise III" Chitori</register>
+<register silent="true" event="chat_party_Chitori_erase">input /ma "Erase" Chitori</register>
+<register silent="true" event="chat_party_Chitori_regen4">input /ma "Regen IV" Chitori</register>
+<register silent="true" event="chat_party_Chitori_regen5">input /ma "Regen V" Chitori</register>
+<register silent="true" event="chat_party_Chitori_cga1">input /ma "Curaga" Chitori</register>
+<register silent="true" event="chat_party_Chitori_cga2">input /ma "Curaga II" Chitori</register>
+<register silent="true" event="chat_party_Chitori_cga3">input /ma "Curaga III" Chitori</register>
+<register silent="true" event="chat_party_Chitori_cga4">input /ma "Curaga IV" Chitori</register>
+<register silent="true" event="chat_party_Chitori_cga5">input /ma "Curaga V" Chitori</register>
+<register silent="true" event="chat_party_Chitori_bdex">input /ma "Boost-DEX" Chitori</register>
+<register silent="true" event="chat_party_Chitori_bagi">input /ma "Boost-AGI" Chitori</register>
+<register silent="true" event="chat_party_Chitori_bstr">input /ma "Boost-STR" Chitori</register>
+<register silent="true" event="chat_party_Chitori_bint">input /ma "Boost-INT" Chitori</register>
+<register silent="true" event="chat_party_Chitori_bmnd">input /ma "Boost-MND" Chitori</register>
+<register silent="true" event="chat_party_Raymois_c1">input /ma "Cure" Raymois</register>
+<register silent="true" event="chat_party_Raymois_c2">input /ma "Cure II" Raymois</register>
+<register silent="true" event="chat_party_Raymois_c3">input /ma "Cure III" Raymois</register>
+<register silent="true" event="chat_party_Raymois_c4">input /ma "Cure IV" Raymois</register>
+<register silent="true" event="chat_party_Raymois_c5">input /ma "Cure V" Raymois</register>
+<register silent="true" event="chat_party_Raymois_c6">input /ma "Cure VI" Raymois</register>
+<register silent="true" event="chat_party_Raymois_haste">input /ma "Haste" Raymois</register>
+<register silent="true" event="chat_party_Raymois_raise">input /ma "Raise" Raymois</register>
+<register silent="true" event="chat_party_Raymois_raise2">input /ma "Raise II" Raymois</register>
+<register silent="true" event="chat_party_Raymois_raise3">input /ma "Raise III" Raymois</register>
+<register silent="true" event="chat_party_Raymois_erase">input /ma "Erase" Raymois</register>
+<register silent="true" event="chat_party_Raymois_regen4">input /ma "Regen IV" Raymois</register>
+<register silent="true" event="chat_party_Raymois_regen5">input /ma "Regen V" Raymois</register>
+<register silent="true" event="chat_party_Raymois_cga1">input /ma "Curaga" Raymois</register>
+<register silent="true" event="chat_party_Raymois_cga2">input /ma "Curaga II" Raymois</register>
+<register silent="true" event="chat_party_Raymois_cga3">input /ma "Curaga III" Raymois</register>
+<register silent="true" event="chat_party_Raymois_cga4">input /ma "Curaga IV" Raymois</register>
+<register silent="true" event="chat_party_Raymois_cga5">input /ma "Curaga V" Raymois</register>
+<register silent="true" event="chat_party_Raymois_bdex">input /ma "Boost-DEX" Raymois</register>
+<register silent="true" event="chat_party_Raymois_bagi">input /ma "Boost-AGI" Raymois</register>
+<register silent="true" event="chat_party_Raymois_bstr">input /ma "Boost-STR" Raymois</register>
+<register silent="true" event="chat_party_Raymois_bint">input /ma "Boost-INT" Raymois</register>
+<register silent="true" event="chat_party_Raymois_bmnd">input /ma "Boost-MND" Raymois</register>
