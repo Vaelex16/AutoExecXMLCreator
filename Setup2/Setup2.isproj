@@ -28,4 +28,10 @@
 		</TaggedOutputs> -->
 	</ItemGroup>
 	<Import Project="$(MSBuildExtensionsPath32)\InstallShield\2015Limited\InstallShield.targets"/>
+	<ItemGroup>
+		<ProjectReference Include="..\AutoExecXMLCreator\AutoExecXMLCreator.csproj">
+			<Name>AutoExecXMLCreator</Name>
+			<Project>{8D811527-6244-4EE2-B585-7E078C951CCA}</Project>
+		</ProjectReference>
+	</ItemGroup>
 </Project>

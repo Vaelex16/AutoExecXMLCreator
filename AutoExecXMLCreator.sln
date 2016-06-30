@@ -6,6 +6,9 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoExecXMLCreator", "AutoExecXMLCreator\AutoExecXMLCreator.csproj", "{8D811527-6244-4EE2-B585-7E078C951CCA}"
 EndProject
 Project("{6141683F-8A12-4E36-9623-2EB02B2C2303}") = "Setup2", "Setup2\Setup2.isproj", "{DB444849-DD6E-4B39-92CD-BD081F475C39}"
+	ProjectSection(ProjectDependencies) = postProject
+		{8D811527-6244-4EE2-B585-7E078C951CCA} = {8D811527-6244-4EE2-B585-7E078C951CCA}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

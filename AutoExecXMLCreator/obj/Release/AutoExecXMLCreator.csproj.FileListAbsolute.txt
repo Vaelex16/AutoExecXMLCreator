@@ -1,1 +1,13 @@
 C:\Users\sszu4471\Desktop\AutoExecXMLCreator\AutoExecXMLCreator\bin\Release\AutoExecXMLCreator.exe.config
+C:\Users\sszu4471\Source\Repos\AutoExecXMLCreator\AutoExecXMLCreator\bin\Release\AutoExecXMLCreator.exe.config
+C:\Users\sszu4471\Source\Repos\AutoExecXMLCreator\AutoExecXMLCreator\bin\Release\AutoExecXMLCreator.exe.manifest
+C:\Users\sszu4471\Source\Repos\AutoExecXMLCreator\AutoExecXMLCreator\bin\Release\AutoExecXMLCreator.application
+C:\Users\sszu4471\Source\Repos\AutoExecXMLCreator\AutoExecXMLCreator\bin\Release\AutoExecXMLCreator.exe
+C:\Users\sszu4471\Source\Repos\AutoExecXMLCreator\AutoExecXMLCreator\bin\Release\AutoExecXMLCreator.pdb
+C:\Users\sszu4471\Source\Repos\AutoExecXMLCreator\AutoExecXMLCreator\obj\Release\AutoExecXMLCreator.d.resources
+C:\Users\sszu4471\Source\Repos\AutoExecXMLCreator\AutoExecXMLCreator\obj\Release\AutoExecXMLCreator.Properties.Resources.resources
+C:\Users\sszu4471\Source\Repos\AutoExecXMLCreator\AutoExecXMLCreator\obj\Release\AutoExecXMLCreator.csproj.GenerateResource.Cache
+C:\Users\sszu4471\Source\Repos\AutoExecXMLCreator\AutoExecXMLCreator\obj\Release\AutoExecXMLCreator.exe.manifest
+C:\Users\sszu4471\Source\Repos\AutoExecXMLCreator\AutoExecXMLCreator\obj\Release\AutoExecXMLCreator.application
+C:\Users\sszu4471\Source\Repos\AutoExecXMLCreator\AutoExecXMLCreator\obj\Release\AutoExecXMLCreator.exe
+C:\Users\sszu4471\Source\Repos\AutoExecXMLCreator\AutoExecXMLCreator\obj\Release\AutoExecXMLCreator.pdb

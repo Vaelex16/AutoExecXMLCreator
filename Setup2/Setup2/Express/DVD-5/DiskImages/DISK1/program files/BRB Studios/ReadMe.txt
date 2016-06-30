@@ -7,8 +7,7 @@ chat.
 
 The application comes with four base bot command lists (the four I typically use) to use as
 templates that you can add onto, or learn with and make your own. To open them click File >
-Open Command File. These bots are located in the installation directory that you chose when
-installing the application.
+Open Command File.
 
 Once you open or create a bot clicking the 'Generate XML' button prompts you for a save location
 and file name. You cna save it in any directory you wish, however do note that for Auto Exec to

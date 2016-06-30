@@ -29,7 +29,11 @@ namespace AutoExecXMLCreator
         public void GetCommandsFromFile(Storage info, OpenFileDialog openDialog)
         {
             List<string> commandStrings = new List<string>();
-            Stream fileStream = openDialog.OpenFile();
+            Stream fileStream = null;
+            if ((fileStream = openDialog.OpenFile()) == null)
+            {
+                return;
+            }
             StreamReader sr = new StreamReader(fileStream);
             while(!sr.EndOfStream)
             {

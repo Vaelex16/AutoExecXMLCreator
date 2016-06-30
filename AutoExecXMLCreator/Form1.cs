@@ -444,10 +444,13 @@ namespace AutoExecXMLCreator
 
         private void openToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            openFileDialog1.InitialDirectory = Path.GetDirectoryName(System.Reflection.Assembly.GetExecutingAssembly().GetName().CodeBase + "/basebots");
             openFileDialog1.Filter = "Command Text File | *.cmdtxt";
-            openFileDialog1.ShowDialog();
+            if (openFileDialog1.ShowDialog() != DialogResult.OK)
+                return;
             saveLoader.GetCommandsFromFile(info, openFileDialog1);
             UpdateCommandsListBox();
+            openFileDialog1.Reset();
         }
 
         private void saveToolStripMenuItem_Click(object sender, EventArgs e)
@@ -456,12 +459,20 @@ namespace AutoExecXMLCreator
             saveFileDialog1.Filter = "Command Text File | *.cmdtxt";
             saveFileDialog1.ShowDialog();
             saveLoader.WriteCommandsToFile(info, saveFileDialog1);
-            
+            saveFileDialog1.Reset();
         }
 
         private void d_Load(object sender, EventArgs e)
         {
 
         }
+
+        private void RemoveAll_BTN_Click(object sender, EventArgs e)
+        {
+            Commands_LV.Items.Clear();
+            info.commands.Clear();
+            UpdateCommandsListBox();
+        }
+        
     }
 }

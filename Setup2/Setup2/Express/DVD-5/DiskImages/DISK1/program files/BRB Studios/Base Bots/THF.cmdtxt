@@ -1,0 +1,52 @@
+Sneak Attack
+sa
+True
+JobAbility
+Trick Attack
+ta
+True
+JobAbility
+Feint
+feint
+True
+JobAbility
+Steal
+steal
+True
+JobAbility
+Mug
+mug
+True
+JobAbility
+Despoil
+despoil
+True
+JobAbility
+Evisceration
+evis
+False
+WeaponSkill
+Exenterator
+exent
+False
+WeaponSkill
+Aeolian Edge
+ae
+False
+WeaponSkill
+Rudra's Storm
+rudras
+False
+WeaponSkill
+Shark Bite
+shark
+False
+WeaponSkill
+Assassin's Charge
+acharge
+True
+JobAbility
+Bully
+bully
+False
+JobAbility
