@@ -62,13 +62,13 @@
       <dsig:DigestValue>6N7MliNbVJSIAIPrecIshMbZ7zEoKLr5SQvud4LDUOw=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="ReadMe.txt" size="1339">
+  <file name="ReadMe.txt" size="1441">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>bU2dXgaCzny95/tXpaXV2rpKgjN/oryYhTXLWByRPvs=</dsig:DigestValue>
+      <dsig:DigestValue>+it4N7INPZZcIx0XMlyL315h5fdA84KTy4RMVht7AZA=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>
